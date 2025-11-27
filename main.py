@@ -1,3 +1,5 @@
+# Ajuste para documentación y preparación del README
+
 from archivos import convertir_csv_dict, guardar_csv
 from crud import agregar_prods, editar_prods, eliminar_prods, mostrar_producto
 from utils import pausar, generar_id
